@@ -1,13 +1,13 @@
-# COSMIC Text
+# Zinc Text
 
 [![crates.io](https://img.shields.io/crates/v/cosmic-text.svg)](https://crates.io/crates/cosmic-text)
 [![docs.rs](https://docs.rs/cosmic-text/badge.svg)](https://docs.rs/cosmic-text)
 ![license](https://img.shields.io/crates/l/cosmic-text.svg)
-[![Rust workflow](https://github.com/pop-os/cosmic-text/workflows/Rust/badge.svg?event=push)](https://github.com/pop-os/cosmic-text/actions)
+[![Rust workflow](https://github.com/ZincGluxx/zinc-text/workflows/Rust/badge.svg?event=push)](https://github.com/ZincGluxx/zinc-text/actions)
 
 Pure Rust multi-line text handling.
 
-COSMIC Text provides advanced text shaping, layout, and rendering wrapped up
+Zinc Text provides advanced text shaping, layout, and rendering wrapped up
 into a simple abstraction. Shaping is provided by HarfRust, and supports a
 wide variety of advanced shaping operations. Rendering is provided by swash,
 which supports ligatures and color emoji. Layout is implemented custom, in safe
